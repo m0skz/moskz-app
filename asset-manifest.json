@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/moskz-app/static/css/main.caef1bc2.chunk.css",
+    "main.js": "/moskz-app/static/js/main.908c6ca2.chunk.js",
+    "main.js.map": "/moskz-app/static/js/main.908c6ca2.chunk.js.map",
+    "runtime~main.js": "/moskz-app/static/js/runtime~main.2c1d47dc.js",
+    "runtime~main.js.map": "/moskz-app/static/js/runtime~main.2c1d47dc.js.map",
+    "static/js/2.1642ddda.chunk.js": "/moskz-app/static/js/2.1642ddda.chunk.js",
+    "static/js/2.1642ddda.chunk.js.map": "/moskz-app/static/js/2.1642ddda.chunk.js.map",
+    "static/js/3.340461a2.chunk.js": "/moskz-app/static/js/3.340461a2.chunk.js",
+    "static/js/3.340461a2.chunk.js.map": "/moskz-app/static/js/3.340461a2.chunk.js.map",
+    "index.html": "/moskz-app/index.html",
+    "precache-manifest.f10216306e5516e9440e084e4e1d2eff.js": "/moskz-app/precache-manifest.f10216306e5516e9440e084e4e1d2eff.js",
+    "service-worker.js": "/moskz-app/service-worker.js",
+    "static/css/main.caef1bc2.chunk.css.map": "/moskz-app/static/css/main.caef1bc2.chunk.css.map",
+    "static/media/logo.png": "/moskz-app/static/media/logo.1b8d2da6.png"
+  }
+}
