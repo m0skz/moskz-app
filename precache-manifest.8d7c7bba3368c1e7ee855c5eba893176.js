@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f67c64e444f746f9a1e5fea3627b8aa",
+    "revision": "1435383f3f4f36a757fbe04e97b92fec",
     "url": "/moskz-app/index.html"
   },
   {
